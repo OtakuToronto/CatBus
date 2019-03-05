@@ -1,0 +1,83 @@
+/* Catbus Schedule */
+
+.background {
+    margin: 0,0,0,0;
+    padding:  1em;
+    background-image:URL("../green.jpg");
+    background-size: 100% 100%;
+}
+.jumbotron {
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-image: URL("../stars.jpg");
+    background-size: 100% 100%;
+    color:	white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.table {
+    color: #696969;
+}
+
+.display-4 {
+    margin-bottom: 25px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    border-color: #FFB6C1;
+    color: #696969;
+    margin-bottom: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-header {
+    background-color: #FFB6C1;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn {
+    position: relative;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    border-radius: 6px;
+    box-shadow: 0 6px #C0C0C0;
+    background-color: #FFB6C1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.btn:hover {
+    box-shadow: 0 4px#696969;
+    background-color: #FFB6C1;
+    top: 2px;
+}
+
+.btn:active {
+    box-shadow: 0 0#C0C0C0;
+    top: 2px;
+}
+
+.form-group {
+    margin-bottom: 25px;
+    color: #696969;
+    font-weight: bolder;
+}
+
+#info {
+    font-weight: normal;
+    font-size: 12px;
+    margin-top: 5px;
+    color:#FFE4E1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.footer{
+    color: #696969;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #FFB6C1;
+
+}
